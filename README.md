@@ -2,8 +2,6 @@
 
 </p>
 <div align="center">
-   <a href="https://discord.com/users/" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/728360891644641303?bg=111111">
    </a>
 </div>
 
